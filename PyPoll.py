@@ -3,7 +3,7 @@ import os
 
 # We will load the file
 Load_file = os.path.join("Python_HW_Data","election_data.csv")
-Write_to_file = os.path.join("Python_HW_Data","election_data.txt")
+Write_to_file = os.path.join("Python_HW_Data","election_analysis.txt")
 
 #Parameters
 
