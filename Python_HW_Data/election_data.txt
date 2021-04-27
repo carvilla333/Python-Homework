@@ -1,1 +1,0 @@
-{'Election Results ': '', '----------------------------': '', 'Total Votes: ': 3521001, "O'Tooley": 2.999999147969569, 'candidate votes: ': 105630, 'Winner: ': 'Khan'}
