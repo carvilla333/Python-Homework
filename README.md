@@ -1,4 +1,4 @@
-# Python_Homework
+# Python
 
  
 For this project we were tasked with completing 2 assignments
